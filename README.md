@@ -22,6 +22,6 @@ Minha meta é ser um grande desenvolvedor Front-End, sinta-se livre para explora
   
 <h2>Stats:</h2>
 
-![vinisilveiraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisilveiraa&show_icons=true&theme=transparent) [![vinisilveiraa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisilveiraa)](https://github.com/vinisilveiraa/github-readme-stats)
+![vinisilveiraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisilveiraa&show_icons=true&theme=radical) [![vinisilveiraa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisilveiraa)](https://github.com/vinisilveiraa/github-readme-stats)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6542ed&height=120&section=footer"/>
