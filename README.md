@@ -11,7 +11,7 @@ Minha meta é ser um grande desenvolvedor Front-End, sinta-se livre para explora
 <h3>Meus Links:</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-leonardo-silveira-240808351/)
-(nada ainda)
+
 <br>
 
 <h2>Atualmente Estudando...</h2>
