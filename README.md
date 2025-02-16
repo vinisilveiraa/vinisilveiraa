@@ -12,15 +12,15 @@ Minha meta é ser um grande desenvolvedor Front-End, sinta-se livre para explora
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-leonardo-silveira-240808351/)
 
-<h2>Atualmente Estudando...</h2>
+<h2>Atualmente Estudando:</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h2>Ferramentas<h2>
+<h2>Ferramentas:<h2>
 
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   
-<h2>Stats</h2>
+<h2>Stats:</h2>
 
 ![vinisilveiraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisilveiraa&show_icons=true&theme=transparent) [![vinisilveiraa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisilveiraa)](https://github.com/vinisilveiraa/github-readme-stats)
 
