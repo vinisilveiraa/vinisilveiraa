@@ -8,6 +8,8 @@ Atualmente estudando
 <br>
 Minha meta é ser um grande desenvolvedor Back-End, sinta-se livre para explorar meus projetos!
 
+![GitHub Streak](https://streak-stats.demolab.com?user=vinisilveiraa&theme=radical)
+
 <h3>Meus Links:</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinisilveiraa/)
@@ -27,9 +29,7 @@ Minha meta é ser um grande desenvolvedor Back-End, sinta-se livre para explorar
   
 <h2>Stats:</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vinisilveiraa&theme=radical)]
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinisilveiraa&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=vinisilveiraa&theme=radical)]
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinisilveiraa&theme=radical)]
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6542ed&height=120&section=footer"/>
