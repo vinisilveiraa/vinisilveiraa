@@ -6,7 +6,7 @@
 Estudante da Faculdade de Tecnologia do Estado de São Paulo, Brasil. 
 Atualmente estudando 
 <br>
-Minha meta é ser um grande desenvolvedor Front-End, sinta-se livre para explorar meus projetos!
+Minha meta é ser um grande desenvolvedor Back-End, sinta-se livre para explorar meus projetos!
 
 <h3>Meus Links:</h3>
 
@@ -23,10 +23,13 @@ Minha meta é ser um grande desenvolvedor Front-End, sinta-se livre para explora
 
 <h2>Ferramentas:<h2>
 
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   
 <h2>Stats:</h2>
 
-![vinisilveiraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisilveiraa&show_icons=true&theme=radical) [![vinisilveiraa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisilveiraa)](https://github.com/vinisilveiraa/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vinisilveiraa&theme=radical)]
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinisilveiraa&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vinisilveiraa&theme=radical)]
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6542ed&height=120&section=footer"/>
