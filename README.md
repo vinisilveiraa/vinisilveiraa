@@ -7,6 +7,7 @@ Estudante da Faculdade de Tecnologia do Estado de São Paulo, Brasil.
 Atualmente estudando 
 <br>
 Minha meta é ser um grande desenvolvedor Back-End, sinta-se livre para explorar meus projetos!
+<br>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vinisilveiraa&theme=radical)
 
@@ -30,6 +31,6 @@ Minha meta é ser um grande desenvolvedor Back-End, sinta-se livre para explorar
 <h2>Stats:</h2>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinisilveiraa&theme=radical)]
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinisilveiraa&theme=radical)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6542ed&height=120&section=footer"/>
