@@ -6,11 +6,11 @@
 
 🎓 - Estudante da Faculdade de Tecnologia do Estado de São Paulo, Brasil
 
-🎯 Foco atual: Desenvolvimento Back-End
+🎯 - Foco atual: Desenvolvimento Back-End
 
-🎈 Curioso por tecnologia e focado em evolução constante
+🎈 - Curioso por tecnologia e focado em evolução constante
 
-🚀 Buscando oportunidade de estágio ou júnior
+🚀 - Buscando oportunidade de estágio ou júnior
 
 <br>
 
