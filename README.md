@@ -39,12 +39,9 @@ Plataforma web para conectar cuidadores a clientes, com foco em usabilidade e co
 🎓 Fatec Jahu - Desenvolvimento de Software Multiplataforma  
 📅 2025 - Atual
 
-<br>
-
 <div align="center" width="25%">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=vinisilveiraa&theme=radical)
 
+<h2></h2>
 <h3> CURRENTLY LEARNING </h3>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
