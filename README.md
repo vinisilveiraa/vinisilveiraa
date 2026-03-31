@@ -20,7 +20,9 @@
 
 <h2> SOCIALS </h2>
 <div align="center">
-  
+
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini.silveira1503@gmail.com)  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinisilveiraa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinisilveiraa__/)
 
@@ -31,7 +33,7 @@
 🔹 CONECTE - Sistema Cuidador-Cliente <br>
 Plataforma web para conectar cuidadores a clientes, com foco em usabilidade e comunicação eficiente entre usuários.
 
-👉 [Ver projeto](https://github.com/WilliamMatiasDeOliveira/projeto_PI.git)
+👉 [Ver projeto](https://github.com/vinisilveiraa/Conecte_PI)
 
 
 <h3>📚 Formação</h3>
