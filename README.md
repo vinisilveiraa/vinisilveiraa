@@ -14,9 +14,9 @@
 
 <br>
 
-🧠 Compartilho minha evolução como dev no LinkedIn
+Compartilho regularmente minha evolução como dev no LinkedIn
 
-👉 Acompanhe: https://www.linkedin.com/in/vinisilveiraa/
+👉 Acompanhe aqui: https://www.linkedin.com/in/vinisilveiraa/
 
 <h2> SOCIALS </h2>
 <div align="center">
@@ -28,7 +28,7 @@
 
 </div>
 
-<h3>🚀 Projetos em Destaque</h3>
+<h3>Projetos em Destaque</h3>
 
 🔹 CONECTE - Sistema Cuidador-Cliente <br>
 Plataforma web para conectar cuidadores a clientes, com foco em usabilidade e comunicação eficiente entre usuários.
@@ -36,7 +36,7 @@ Plataforma web para conectar cuidadores a clientes, com foco em usabilidade e co
 👉 [Ver projeto](https://github.com/vinisilveiraa/Conecte_PI)
 
 
-<h3>📚 Formação</h3>
+<h3>Formação</h3>
 
 🎓 Fatec Jahu - Desenvolvimento de Software Multiplataforma  
 📅 2025 - Atual
